@@ -1,7 +1,5 @@
-# IT-Support-Portfolio
+#IT Support Ticket: INC-84920 (Display Resolution & Layout Glitch)
 A log of real-world IT support tickets, troubleshooting scripts, and root-cause analyses.
-# IT Support Ticket: INC-84920 (Display Resolution & Layout Glitch)
-
 ## 📌 Ticket Overview
 * **Ticket ID:** INC-84920  
 * **Priority:** P3 (Medium/Low - Non-critical usability issue)  
